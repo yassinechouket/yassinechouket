@@ -8,10 +8,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 👩‍💻  About Me
 
 ###
-# 🔍 Machine Learning
+## 🔍 Machine Learning
 
 -Proficient in Python for data science and machine learning
 
@@ -19,7 +19,7 @@
 
 -Working with TensorFlow and PyTorch for deep learning projects
 
-# 🔧 Data Engineering
+## 🔧 Data Engineering
 
 -Designing and managing ETL pipelines
 
