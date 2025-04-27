@@ -27,7 +27,6 @@
 
 -Writing efficient SQL queries in MySQL and PostgreSQL
 
-<p align="left">🔍 Machine Learning<br><br>-Proficient in Python for data science and machine learning<br><br>-Experienced with scikit-learn for classical ML models<br><br>-Working with TensorFlow and PyTorch for deep learning projects<br><br>🔧 Data Engineering<br><br>-Designing and managing ETL pipelines<br><br>c<br><br>-Writing efficient SQL queries in MySQL and PostgreSQL</p>
 
 ###
 
