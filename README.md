@@ -72,6 +72,9 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow logo" height="40">
+
 </div>
 
 ###
