@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png" alt="Python logo rond" height="40">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo officiel" height="40">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
