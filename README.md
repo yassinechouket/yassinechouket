@@ -75,6 +75,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Apache Airflow logo" />
 </div>
 
