@@ -77,7 +77,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
   <img width="12" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub logo" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/actions-icon.svg" height="40" alt="GitHub Actions logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Apache Airflow logo" />
 </div>
