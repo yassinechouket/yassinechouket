@@ -18,6 +18,8 @@
 
 -Working with Docker and PostgreSQL to deploy scalable backend services
 
+-Understanding of CI/CD pipelines using GitHub Actions
+
 ## 🔍 Machine Learning
 
 -Proficient in Python for data science and machine learning
