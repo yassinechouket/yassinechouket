@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">hey there 👋,I'm Mohamed Yassine Chouket!</h1>
-<h2>A passionate Software Engineer</h2>
+<h2 align="center>A passionate Software Engineer</h2>
 
 ###
 
