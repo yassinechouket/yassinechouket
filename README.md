@@ -11,6 +11,13 @@
 # 👩‍💻  About Me
 
 ###
+## 💻 Backend Development
+-Proficient in Java and Spring Boot for building RESTful APIs
+
+-Experienced with Spring Security (JWT) for secure authentication and authorization
+
+-Working with Docker and PostgreSQL to deploy scalable backend services
+
 ## 🔍 Machine Learning
 
 -Proficient in Python for data science and machine learning
