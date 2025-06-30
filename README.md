@@ -19,7 +19,6 @@
 
 -Working with Docker and PostgreSQL to deploy scalable backend services
 
--Understanding of CI/CD pipelines using GitHub Actions
 
 ## 🔍 Machine Learning
 
