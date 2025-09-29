@@ -12,29 +12,12 @@
 # 👩‍💻  About Me
 
 ###
-## 💻 Backend Development
--Proficient in Java and Spring Boot for building RESTful APIs
+## 🚀 Software Engineer
+I’m a results-driven Software Engineer with expertise in building scalable, secure, and high-performance applications using Java and Spring Boot (Spring Security, Spring AI, and more). I thrive at the intersection of software development and data engineering, leveraging SQL to design, optimize, and maintain data-driven solutions that power real-world applications.
 
--Experienced with Spring Security (JWT) for secure authentication and authorization
+Beyond development, I bring strong DevOps skills—streamlining workflows with CI/CD pipelines, Docker, and container orchestration, and deploying applications on AWS for maximum reliability and scalability.
 
--Working with Docker and PostgreSQL to deploy scalable backend services
-
-
-## 🔍 Machine Learning
-
--Proficient in Python for data science and machine learning
-
--Experienced with scikit-learn for classical ML models
-
--Working with TensorFlow and PyTorch for deep learning projects
-
-## 🔧 Data Engineering
-
--Designing and managing ETL pipelines
-
--Working with Apache Airflow for workflow automation
-
--Writing efficient SQL queries in MySQL and PostgreSQL
+💡 I’m passionate about continuous learning, adopting best practices, and delivering impactful, maintainable solutions that empower businesses and teams to succeed in fast-paced, data-driven environments.
 
 
 ###
