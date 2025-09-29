@@ -91,6 +91,8 @@
   <img src="https://skillicons.dev/icons?i=kafka">
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Apache Airflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </div>
 
 ###
