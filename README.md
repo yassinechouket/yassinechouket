@@ -92,7 +92,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Apache Airflow logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
 </div>
 
 ###
