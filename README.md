@@ -65,7 +65,7 @@ Beyond development, I bring strong DevOps skills—streamlining workflows with C
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi">
   <img width="12" />
