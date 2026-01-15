@@ -69,6 +69,8 @@ Beyond development, I bring strong DevOps skills—streamlining workflows with C
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react">
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
