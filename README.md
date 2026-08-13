@@ -81,6 +81,8 @@ Beyond development, I bring strong DevOps skills—streamlining workflows with C
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka">
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins">
